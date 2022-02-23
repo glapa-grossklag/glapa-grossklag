@@ -4,7 +4,7 @@ Hello! If you'd like to get in contact with me, feel free to email me at `first_
 
 - I'm **studying computer science** at the University of California, Santa Cruz.
 - I'm currently helping out with [Twizzler](https://twizzler.io/), a **research operating system** developed by the [Center for Research in Storage Systems](https://www.crss.ucsc.edu) at UC Santa Cruz.
-- I'm working on **GPU Software at Apple** as a part of an internship.
+- I'm working on **GPU Software at Apple** as an intern.
 
 ---
 
